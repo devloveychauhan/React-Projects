@@ -2,7 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/devloveychauhan?label=Follow&style=social)](https://github.com/devloveychauhan)
 [![Repo activity](https://img.shields.io/github/commit-activity/m/devloveychauhan/React-Projects?style=flat-square)](https://github.com/devloveychauhan/React-Projects/commits)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devloveychauhan&repo=React-Projects&layout=compact&theme=radical)](https://github.com/devloveychauhan)
 
 Welcome — this repository is a curated collection of small-to-medium React projects I build to learn, experiment and demonstrate practical frontend skills (hooks, routing, state management, testing, animations, accessibility and modern build tooling).
 
@@ -53,11 +52,9 @@ If you want me to generate or update this list with the exact folders and descri
 ## Tech stack
 Primary technologies used across projects:
 - React (functional components & hooks)
-- JavaScript / TypeScript (where noted)
+- JavaScript 
 - React Router
-- State management: Context API / Redux Toolkit / Zustand (per project)
 - Styling: CSS, CSS Modules, Tailwind CSS, styled-components
-- Testing: Jest, React Testing Library
 - Tooling: Vite / Create React App / Webpack, ESLint, Prettier
 
 ---
@@ -88,16 +85,6 @@ Common scripts you will find in individual project folders:
 
 Always check the project-level package.json for exact scripts and tooling.
 
----
-
-## Testing & quality
-I aim to include at least unit / component tests for core logic and key components. Typical tools:
-- Jest + React Testing Library for unit and integration tests
-- ESLint + Prettier for consistent style and linting
-- Optional: Playwright / Cypress for end-to-end tests in larger demos
-
----
-
 ## Contribution guidelines
 Thanks for wanting to contribute! A few simple rules:
 1. Open an issue to discuss large changes before submitting a PR.
@@ -109,18 +96,11 @@ If you want me to add a CONTRIBUTING.md and a template PR/issue for this repo, s
 
 ---
 
-## Roadmap
-Planned improvements (examples — edit as you like):
-- Add TypeScript variants for selected projects
-- Add CI with GitHub Actions (lint, test, build)
-- Add more tests and accessibility audits
-- Provide deployable demo links (Netlify / Vercel) for each project
 
----
 
 ## Contact
 - GitHub: [@devloveychauhan](https://github.com/devloveychauhan)
-- Email: (add your email here)
+- Email: (devloveychauhan@gmail.com)
 
 ---
 
